@@ -6,7 +6,7 @@ API REST para gerenciamento de hardware, periféricos e licenças de software, v
 A API está disponível publicamente em:
 
 - **Swagger UI:** https://gestao-ati-production.up.railway.app/swagger-ui/index.html
-- **Base URL:** https://gestao-ati-production.up.railway.app
+
 ## Tecnologias
 
 - Java 21
