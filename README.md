@@ -1,4 +1,4 @@
-# 🖥Sistema de Gestão de Ativos de TI
+# Sistema de Gestão de Ativos de TI
 
 API REST para gerenciamento de hardware, periféricos e licenças de software, vinculando ativos a funcionários.
 
